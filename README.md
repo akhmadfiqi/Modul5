@@ -1,9 +1,9 @@
 # Modul5
 GUI
-lat1
 ![lat 1](https://github.com/akhmadfiqi/Modul5/blob/master/lat1.PNG)<br>
 lat2
 ![lat 2](https://github.com/akhmadfiqi/Modul5/blob/master/lat2.PNG)<br>
+lat3
 ![lat 3](https://github.com/akhmadfiqi/Modul5/blob/master/lat3.PNG)<br>
 ![lat 4](https://github.com/akhmadfiqi/Modul5/blob/master/lat4.PNG)<br>
 ![kuis1a](https://github.com/akhmadfiqi/Modul5/blob/master/kuis1a.PNG)<br>
